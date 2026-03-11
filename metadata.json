@@ -1,0 +1,7 @@
+{
+  "name": "TBC Premium Assistant",
+  "description": "A premium bilingual voice assistant supporting English and Bengali, created by Abir.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
